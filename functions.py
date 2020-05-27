@@ -1,4 +1,4 @@
-def sqiare(x):
+def sqare(x):
     return x * x
 
 for i in range(10):
