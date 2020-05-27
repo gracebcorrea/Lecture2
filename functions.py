@@ -1,5 +1,5 @@
-def sqare(x):
-    return x * x
+def square(x):
+    return x*x
 
 for i in range(10):
-    print("{} square is{}".format(i,square(i)))
+    print("{} squared is{}".format(i,square(i)))
