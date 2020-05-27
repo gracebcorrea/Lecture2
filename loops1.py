@@ -5,4 +5,4 @@ for name in names:
 #pode imprimir tipos diferentes , mas é melhor usar o mesmo tipo de dados
 
 l=[28,"alice",True]
-l[0]
+   print (l[0])
